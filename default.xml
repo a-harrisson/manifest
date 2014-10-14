@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com/a-harrisson/" review="https://github.com/a-harrisson/" alias="origin"/>
+  <remote name="origin" fetch="https://github.com/a-harrisson/" review="https://github.com/a-harrisson/" alias="origin"/>
   <default remote="origin" revision="master" sync-j="4"/>
 
   <manifest-server url="https://github.com/a-harrisson/"/>
